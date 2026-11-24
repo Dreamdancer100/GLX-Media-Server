@@ -21,6 +21,18 @@
 
 ---
 
+## 📸 Overview & Screenshots
+
+### 1️⃣ Music library
+
+<p align="center"><img src="screenshots/01-music.jpg" alt="Music library" width="850"></p>
+
+### 2️⃣ Audio books
+
+<p align="center"><img src="screenshots/02-audio-books.jpg" alt="Audio books" width="850"></p>
+
+---
+
 ## ✨ Features
 
 - 🚀 **Your own server:** Runs on a Proxmox container, Linux server, Raspberry Pi or Windows PC.
